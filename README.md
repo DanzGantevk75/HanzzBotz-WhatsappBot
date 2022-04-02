@@ -1,146 +1,150 @@
 <p align="center">
-    <img src="https://telegra.ph/file/8c0c0d33c6129af67e9c1.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/70c8f28d7bd2f2e021e16.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Kanna BOT</h1>
+<h1 align="center">HanzzBotz</h1>
 
-<a href="https://github.com/Kannachann/kanna-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kannachann/kanna-wabot?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kannachann/kanna-wabot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Kannachann/kanna-wabot?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Kannachann/kanna-wabot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Kannachann/kanna-wabot?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Kannachann/kanna-wabot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Kannachann/kanna-wabot?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kannachann/kanna-wabot/issues"><img title="Issues" src="https://img.shields.io/github/issues/Kannachann/kanna-wabot?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/Kannachann/kanna-wabot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Kannachann/kanna-wabot?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Kannachann/kanna-wabot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Kannachann/kanna-wabot?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/Kannachann/kanna-wabot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Kannachann/kanna-wabot?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/HanzzBotz/HanzzBotz-WhatsappBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HanzzBotz/HanzzBotz-WhatsappBot?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/HanzzBotz/HanzzBotz-WhatsappBot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/HanzzBotz/HanzzBotz-WhatsappBot?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/HanzzBotz/HanzzBotz-WhatsappBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/HanzzBotz/HanzzBotz-WhatsappBot?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/HanzzBotz/HanzzBotz-WhatsappBot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/HanzzBotz/HanzzBotz-WhatsappBot?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/HanzzBotz/HanzzBotz-WhatsappBot/issues"><img title="Issues" src="https://img.shields.io/github/issues/HanzzBotz/HanzzBotz-WhatsappBot?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/HanzzBotz/HanzzBotz-WhatsappBot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/HanzzBotz/HanzzBotz-WhatsappBot?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/HanzzBotz/HanzzBotz-WhatsappBot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/HanzzBotz/HanzzBotz-WhatsappBot?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/HanzzBotz/HanzzBotz-WhatsappBot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/HanzzBotz/HanzzBotz-WhatsappBot?label=PullRequest&color=red&style=flat-square"></a>
 
-## FOR DEPLOY HEROKU USER
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kangsad01/Wabot-Tsb01)
+## Join Group Diskusi
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GVwpKf83s42D1CnIfDW19G) 
+**NO BOT**
 
-### Instal Buildpack
-* heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 
-## FOR DEPLOY RAILWAY USER
+#### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HanzzBotz/HanzzBotz-WhatsappBot)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKangsad01%2FWabot-Tsb01)
+#### Heroku Buildpack
+| BuildPack | LINK |
+|--------|--------|
+| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-## FOR DEPLOY REPLIT USER
-
-[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Kannachann/kanna-wabot/)
-```cmd
-Open Console
-------------
-> npm i
-> npm i qrcode
-> install-pkg webp
-> install-pkg ffmpeg
--------------
-Click Run
-```
-## Whatsapp
-
-[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT)
-[![Whatsapp BOT](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283143393763/)
-
-## UNTUK PENGGUNA WINDOWS/VPS/RDP
-
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
-* Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
-
+### FOR TERMUX USER
 ```bash
-git clone https://github.com/Kannachann/kanna-wabot/
-cd kanna-wabot
-npm i
-npm update
-node .
+pkg update && pkg upgrade
+pkg install bash && pkg install wget
+wget -O - https://raw.githubusercontent.com/BochilGaming/games-wabot/main/install2.sh | bash
 ```
 
 ---------
 
-## UNTUK PENGGUNA TERMUX
+## INSTALL ON TERMUX WITH UBUNTU
+
+[ INSTALLING UBUNTU ]
+
 ```bash
-termux-setup-storage
-pkg install git
-pkg install nodejs
-pkg install ffmpeg
-pkg install imagemagick
-pkg install libwebp
-git clone https://github.com/Kannachann/kanna-wabot/
-npm install -g npm@6.14.14
-npm start
+apt update && apt full-upgrade
+apt install wget curl git proot-distro
+proot-distro install ubuntu
+echo "proot-distro login ubuntu" > $PREFIX/bin/ubuntu
+ubuntu
+```
+---------
+
+[ INSTALLING REQUIRED PACKAGES ]
+
+```bash
+ubuntu
+apt update && apt full-upgrade
+apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev dbus-x11 ffmpeg2theora ffmpegfs ffmpegthumbnailer ffmpegthumbnailer-dbg ffmpegthumbs libavcodec-dev libavcodec-extra libavcodec-extra58 libavdevice-dev libavdevice58 libavfilter-dev libavfilter-extra libavfilter-extra7 libavformat-dev libavformat58 libavifile-0.7-bin libavifile-0.7-common libavifile-0.7c2 libavresample-dev libavresample4 libavutil-dev libavutil56 libpostproc-dev libpostproc55 graphicsmagick graphicsmagick-dbg graphicsmagick-imagemagick-compat graphicsmagick-libmagick-dev-compat groff imagemagick-6.q16hdri imagemagick-common libchart-gnuplot-perl libgraphics-magick-perl libgraphicsmagick++-q16-12 libgraphicsmagick++1-dev
+```
+
+---------
+
+[ INSTALLING NODEJS & HANZZBOTZ ]
+
+```bash
+ubuntu
+curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+apt install -y nodejs gcc g++ make
+git clone https://github.com/HanzzBotz/HanzzBotz-WhatsappBot
+cd HanzzBotz-WhatsappBot
+npm install
+npm update
+```
+
+---------
+
+## FOR WINDOWS/VPS/RDP USER
+
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+
+```bash
+git clone https://github.com/HanzzBotz/HanzzBotz-WhatsappBot
+cd HanzzBotz-WhatsappBot
+npm install
+npm update
+```
+
+---------
+
+## Run
+
+```bash
+node .
 ```
 
 ---------
 
 ## Arguments `node . [--options] [<session name>]`
 
-#### Contoh: `node . --self --restrict --autoread`
-
 ### `--self`
 
-Aktifkan mode self (Mengabaikan yang lain)
+Activate self mode (Ignores other)
+
+### `--pconly`
+
+If that chat not from private bot, bot will ignore
+
+### `--gconly`
+
+If that chat not from group, bot will ignore
+
+### `--swonly`
+
+If that chat not from status, bot will ignore
 
 ### `--prefix <prefixes>`
 
-* `prefixes` dipisahkan oleh masing-masing karakter
-Setel awalan
+* `prefixes` are seperated by each character
+Set prefix
 
 ### `--server`
 
-Digunakan untuk [heroku](https://heroku.com/) atau pindai melalui situs web
-
-### `--db <json-server-url>`
-
-Gunakan db eksternal alih-alih db lokal, 
-Contoh Server `https://json-server.nurutomo.repl.co/`
-Code: `https://repl.it/@Nurutomo/json-server`
-
-`node . --db 'https://json-server.nurutomo.repl.co/'`
-
-Server harus memiliki spesifikasi seperti ini
-
-#### GET
-
-```http
-GET /
-Accept: application/json
-```
-
-#### POST
-
-```http
-POST /
-Content-Type: application/json
-
-{
- data: {}
-}
-```
+Used for [heroku](https://heroku.com/) or scan through website
 
 ### `--big-qr`
 
-Jika qr unicode kecil tidak mendukung
+If small qr unicode doesn't support
 
 ### `--restrict`
 
-Mengaktifkan plugin terbatas (yang dapat menyebabkan nomor Anda **diblokir** jika digunakan terlalu sering)
+Enables restricted plugins (which can lead your number to be **banned** if used too often)
 
-* Administrasi Grup `add, kick, promote, demote`
+* Group Administration `add, kick`
 
 ### `--img`
 
-Aktifkan pemeriksa gambar melalui terminal
+Enable image inspector through terminal
 
 ### `--autoread`
 
-Jika diaktifkan, semua pesan masuk akan ditandai sebagai telah dibaca
+If enabled, all incoming messages will be marked as read
 
 ### `--nyimak`
 
-Tidak ada bot, cukup cetak pesan yang diterima dan tambahkan pengguna ke database
+No bot, just print received messages and add users to database
 
 ### `--test`
 
@@ -160,7 +164,20 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kannachann](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann)
-----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kannachann](https://github.com/Kannachann)
- Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2
+
+### Thanks To 
+**Allah SWT**
+
+[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
+[![HanzzBotz](https://github.com/HanzzBotz.png?size=100)](https://github.com/HanzzBotz)
+
+#### Contributor
+[![idhamthoriqbot](https://github.com/idhamthoriqbot.png?size=100)](https://github.com/idhamthoriqbot)
+[![zatu22](https://github.com/zatu22)](https://github.com/zatu22)
+[![Adiixyz](https://github.com/Adiixyz.png?size=100)](https://github.com/Adiixyz)
+[![Nobuyaki](https://github.com/Nobuyaki.png?size=100)](https://github.com/Nobuyaki)
+[![arisawali2014](https://github.com/arisawali2014.png?size=100)](https://github.com/arisawali2014)
+[![botstylee](https://github.com/botstylee)](https://github.com/botstylee)
+# HanzzBotz-WhatsappBot
+# HanzzBotz-WhatsappBot
+# HanzzBotz-WhatsappBot
