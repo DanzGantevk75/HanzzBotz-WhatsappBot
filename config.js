@@ -29,14 +29,14 @@ function pickRandom(list) {
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/CiypUhAJYSg9PCOVrVKBLQ, https://chat.whatsapp.com/KrIEwXTyhBE5FBweOsPOfZ']
 global.channelYT = ['https://youtube.com/channel/UCjfQUhw550WDZv31eJQaehw'] 
-global.creator = ['6281212083267']// Put your number here
-global.owner = ['6281212083267','6283833155781','62882015554955','6283895683698','62857721057781']// Put your number here
-global.mods = ['6281212083267','6283833155781'] // Want some help?
-global.prems = ['6287886674599', '6281212083267','6285947322310','6281388218284','6281283408836','6288211419255','62882015554955','6281244706456','6283895683698','6282116171244','6283893299648','6283111943089','6285722273751','628118431209','6283821103522','6283178535639'] // Premium user has unlimited limit
+global.creator = ['6288270863279']// Put your number here
+global.owner = ['6288270863279','6288270863279','6288270863279','6288270863279','6288270863279']// Put your number here
+global.mods = ['6288270863279','6288270863279'] // Want some help?
+global.prems = ['6288270863279', '6288270863279','6288270863279','6288270863279','6288270863279','6288270863279','6288270863279','6288270863279','6288270863279','6288270863279','6288270863279','6288270863279','6288270863279','6288270863279','6288270863279','6288270863279'] // Premium user has unlimited limit
 
 global.wait = fs.readFileSync('./sticker/wait.webp')
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.wm = '© ʜᴀɴᴢᴢ ʙᴏᴛᴢ ʙy ʜᴀɴᴢᴢ-ᴋᴜɴ'
+global.wm = 'DanzBot'
 global.logo = 'https://telegra.ph/file/70c8f28d7bd2f2e021e16.jpg'
 global.image = 'https://telegra.ph/file/f7860422fe7e9782b4c9e.jpg'
 global.APIs = { // API Prefix
@@ -71,8 +71,8 @@ global.APIKeys = { // APIKey Here
   'https://melcanz.com': 'Subscribe MelcanzYT'
 }
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = 'Danzz'
+global.author = 'DanzBot'
 
 global.multiplier = 300 // The higher, The harder levelup
 
