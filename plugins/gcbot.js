@@ -1,7 +1,7 @@
 let handler = async m => m.reply(`
 *⚠GRUP BOT⚠*
 Selain ini fake!!!
-https://chat.whatsapp.com/DiVCekzY7i3HtmQttCKcQC
+https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['gchanzz']
 handler.tags = ['info']
