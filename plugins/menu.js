@@ -137,11 +137,11 @@ const fgif = {
   },
   message: {
     videoMessage: {
-      title: `Hanzz Botz`,
+      title: `DanzBot`,
       h: `Hmm`,
       seconds: "99999",
       gifPlayback: "true",
-      caption: `Hanzz Botz`,
+      caption: `Danzz`,
       jpegThumbnail: fs.readFileSync('./src/logo.jpg')
     }
   }
@@ -152,7 +152,7 @@ const fdocs = {
                         },
        message: {
                     documentMessage: {
-                    title: 'Hanzz Botz By Hanzz-kun', 
+                    title: 'DanzBot', 
                     jpegThumbnail: fs.readFileSync('./src/logo.jpeg')
                           }
                         }
@@ -179,7 +179,7 @@ const fcon = {
 	 { fromMe: false,
 	 participant: `0@s.whatsapp.net`, ...(m.chat ? 
 	 { remoteJid: "status@broadcast" } : {}) },
-	 message: { "contactsArrayMessage": { "title":"Hanzz-kun","H": `aloo`, 'jpegThumbnail': fs.readFileSync('./src/logo.jpg')}}
+	 message: { "contactsArrayMessage": { "title":"DanzBot","H": `aloo`, 'jpegThumbnail': fs.readFileSync('./src/logo.jpg')}}
 	}
 const ftextt = {
 	 key: { 
@@ -223,10 +223,10 @@ const fvideo = {
   },
   message: {
     videoMessage: {
-      title: `Hanzz Botz`,
+      title: `DanzBot`,
       h: `Hmm`,
       seconds: "99999",
-      caption: `By Hanzz-kun`,
+      caption: `By Danzz`,
       jpegThumbnail: fs.readFileSync('./src/logo.jpg')}}}
       
 const ftoko = {
@@ -241,8 +241,8 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync(`./src/logo.jpeg`) //Gambarnye
 					},
-					"title": "Hanzz Botz", //Kasih namalu 
-					"description": "By Hanzz-kun", 
+					"title": "DanzBot", //Kasih namalu 
+					"description": "By Danzz", 
 					"currencyCode": "USD",
 					"priceAmount1000": "2000",
 					"retailerId": "Ghost",
@@ -478,7 +478,7 @@ let package = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')
 ┃⬡  Total GC : ${petik} %totalgc ${petik} 
 ┗⬣
  
-Join My Group: https://chat.whatsapp.com/DiVCekzY7i3HtmQttCKcQC
+Join My Group: https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK
 
 %readmore
 
