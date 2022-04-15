@@ -26,16 +26,16 @@ handler.all = async function (m, { isBlocked }) {
         await conn.sendButton(m.chat, `〔 Undang Bot Masuk Grup 〕
 Sewa Untuk Memasukan Bot Ke Group
 ╭─「  Payment 」
-│ ▸ Gopay: 081387127465
-│ ▸ Tsel: 081387127465
-│ ▸ Dana: 081387127465
+│ ▸ Gopay: 088270863279
+│ ▸ Pulsa: 088270863279
+│ ▸ Dana: 088270863279
 ╰┬───「  List Harga Sewa 」
     │➛ *1 Bulan* :      *Rp 5000*
     │➛ *2 bulan* :      *Rp 10000*
     │➛ *8 Bulan* :      *Rp 25000*
     │➛ *VIP*        :      *Rp 50000*
     ╰────────────
-`.trim(), wm, 'CHAT ME TO BUY', '.owner', m, )
+`.trim(), wm, 'CHAT OWNER TO BUY', '.owner', m, )
     }
 
     // salam
@@ -50,7 +50,7 @@ Sewa Untuk Memasukan Bot Ke Group
         let _uptime = process.uptime() * 1000
         let uptime = clockString(_uptime)
         let totalreg = Object.keys(global.DATABASE._data.users).length
-        await this.setStatus(`Im Hanzz Botz || Aktif Selama : ${uptime} || Total User : ${totalreg} || Mode : ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} || Total Chat : ${chats.length} || ©Created By Hanzz-kun`).catch(_ => _)
+        await this.setStatus(`Im DanzBot || Aktif Selama : ${uptime} || Total User : ${totalreg} || Mode : ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'} || Total Chat : ${chats.length} || Created By Danzz`).catch(_ => _)
         setting.status = new Date() * 1
     }
     
