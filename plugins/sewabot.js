@@ -10,7 +10,7 @@ Jadi Owner Seminggu : 25k
 _Pulsa,Dana Dan Gopay_
 
 Minat?PC
-Wa.me/6281212083267
+Wa.me/6288270863279
 `
 }
 handler.help = ['sewa']
