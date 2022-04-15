@@ -10,7 +10,7 @@ let handler  = async (m, { conn, usedPrefix }) => {
   await m.reply('Wait Kakak!!')
   let neww = Math.round(performance.now())
   conn.reply(m.chat, `
-╠═〘 Info Hanzz Botz 〙 ═
+╠═〘 Info Danz Botz 〙 ═
 ╠➥ *Versi:* ${package.version}
 ╠➥ *Prefix:* ' ${usedPrefix} '
 ╠➥ *Menu:* ${usedPrefix}menu
@@ -19,14 +19,14 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ╠➥ *Uptime:* ${uptime}
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ Gopay: 081387127465
-╠➥ Tsel: 081387127465
-╠➥ Dana: 081387127465
+╠➥ Gopay: 088270863279
+╠➥ Pulsa: 088270863279
+╠➥ Dana: 088270863279
 ║
 ╠═ Request? Ketik .request
 ║
 ║${readMore}
-╠═〘 SYARAT & KETENTUAN HANZZ BOTZ〙 ═
+╠═〘 SYARAT & KETENTUAN DANZZ BOTZ〙 ═
 ╠➥ *KAMI TIDAK BERTANGGUNG*
 ║   *JAWAB ATAS PENYALAH*
 ║   *GUNAAN BOT*
@@ -38,9 +38,9 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ║   *ANDA DI DATABASE KAMI*
 ║ 
 ║ 
-╠═ ©2021 Hanzz Botz
+╠═ By Danzz Official
 ╠═ Script original by Nurutomo
-╠═〘 Hanzz Botz 〙 ═
+╠═〘 DanzBot 〙 ═
 `.trim(), m)
 }
 handler.help = ['info']
