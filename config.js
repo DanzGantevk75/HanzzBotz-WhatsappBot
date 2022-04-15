@@ -27,8 +27,8 @@ function pickRandom(list) {
 }
 
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/CiypUhAJYSg9PCOVrVKBLQ, https://chat.whatsapp.com/KrIEwXTyhBE5FBweOsPOfZ']
-global.channelYT = ['https://youtube.com/channel/UCjfQUhw550WDZv31eJQaehw'] 
+global.linkGC = ['https://chat.whatsapp.com/EmCBNEjwdOcHzRlGCXKoxK, https://chat.whatsapp.com/KrIEwXTyhBE5FBweOsPOfZ']
+global.channelYT = ['https://youtube.com/channel/UCAMpDDfVjxdxKS8i8MLrSEQ'] 
 global.creator = ['6288270863279']// Put your number here
 global.owner = ['6288270863279','6288270863279','6288270863279','6288270863279','6288270863279']// Put your number here
 global.mods = ['6288270863279','6288270863279'] // Want some help?
