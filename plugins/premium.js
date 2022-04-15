@@ -16,16 +16,16 @@ let handler = async (m, { conn }) => {
 │▸ Diberi Bonus 50000Xp Tiap Hari
 │
 │╭─「  Payment 」
-││ ▸ Gopay: 081387127465
-││ ▸ Tsel: 081387127465
-││ ▸ Dana: 081387127465
+││ ▸ Gopay: 088270863279
+││ ▸ Pulsa: 088270863279
+││ ▸ Dana: 088270863279
 │╰┬───「 Harga Premium 」
 │    │➛ 10K / Bulan (1 Bulan)
 │    │➛ 20K / Tahun (2 Bulan)
 │    │➛ 50K / VIP (Jadi Owner)
 │    ╰────────────
 │╰➛tertarik? hubungi:
-│╰➛@6281212083267 (Hanzz)
+│╰➛@6288270863279 (Danzz)
 ╰────────────
 `.trim(),
         "listType": "PRODUCT_LIST",
@@ -46,7 +46,7 @@ let handler = async (m, { conn }) => {
             },
             "businessOwnerJid": "6281212083267@s.whatsapp.net"
         },
-        "footerText": "wa.me/6281212083267"
+        "footerText": "wa.me/6288270863279"
     }
     conn.sendMessage(m.chat, listMessage, 'listMessage', { quoted: m, contextInfo: { mentionedJid: conn.parseMention(listMessage.description) } })
 }
