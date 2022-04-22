@@ -15,7 +15,7 @@ handler.all = async function (m, { isBlocked }) {
     // ketika kena tag
     try {
         if (m.mentionedJid.includes(this.user.jid) && m.isGroup) {
-        await conn.send3Button(m.chat, `Halo Kak Hanzz Botz Sedang Online, Apa Yang Bisa Saya Bantu?`.trim(), wm, '⋮☰ Menu', '.menu', '📃 Rules', '.rules', '👤 Pemilik Bot', '.owner', m)
+        await conn.send3Button(m.chat, `Halo Kak DanzBot Sedang Online, Apa Yang Bisa Saya Bantu?`.trim(), wm, '⋮☰ Menu', '.menu', '📃 Rules', '.rules', '👤 Pemilik Bot', '.owner', m)
         }
     } catch (e) {
         return
